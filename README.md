@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <br>
-I am Kedar Sukerkar working as an iOS Developer since 2018.
+I am Kedar Sukerkar, working as an iOS Developer since 2018.
 
 <!--
 **Kedar-27/Kedar-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+</br>
 #Technologies Used:#
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
