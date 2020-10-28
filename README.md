@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://avatars.githubusercontent.com/u/18133"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
-
+<br />
 ![Kedar27's github stats](https://github-readme-stats.vercel.app/api?username=Kedar-27&show_icons=true&hide_border=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-27&layout=compact&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br />
 
   <a href="https://www.linkedin.com/in/kedarsukerkar">
     <img align="left" alt="Kedar Sukerkar | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
