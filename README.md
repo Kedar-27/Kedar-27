@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 <br />#Technologies Used:#
-<br />
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="30" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://avatars.githubusercontent.com/u/18133"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<br />
+
 ![Kedar27's github stats](https://github-readme-stats.vercel.app/api?username=Kedar-27&show_icons=true&hide_border=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-27&layout=compact&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
