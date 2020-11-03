@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br>
+## About me
 I am Kedar Sukerkar, working as an iOS Developer since 2018.
 
 <!--
