@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-I am Kedar Sukerkar, working as an iOS Developer since 2018.
+I am Kedar Sukerkar, working as an iOS Developer since 2018.Also, Flutter enthusiast.
 
 <!--
 **Kedar-27/Kedar-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
