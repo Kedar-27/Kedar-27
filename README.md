@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png"></code>
 <br />
 
-![Kedar27's github stats](https://github-readme-stats.vercel.app/api?username=Kedar-27&show_icons=true&hide_border=true&theme=radical)
+
+<!--![Kedar27's github stats](https://github-readme-stats.vercel.app/api?username=Kedar-27&show_icons=true&hide_border=true&theme=radical&hide=issues)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-27&layout=compact&theme=radical&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
